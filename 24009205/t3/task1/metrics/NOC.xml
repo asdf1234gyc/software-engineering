@@ -1,0 +1,20 @@
+<METRICS profile="NOC1" timestamp="周四, 9 10月 2025 01:19:26 CST">
+	<METRIC category="Package" name="Number of classes" abbreviation="C">
+		<VALUE measured="org.apache.commons.text" value="92.0"/>
+		<VALUE measured="org.apache.commons.text.diff" value="14.0"/>
+		<VALUE measured="org.apache.commons.text.io" value="2.0"/>
+		<VALUE measured="org.apache.commons.text.jmh" value="5.0"/>
+		<VALUE measured="org.apache.commons.text.lookup" value="62.0"/>
+		<VALUE measured="org.apache.commons.text.lookup.external" value="1.0"/>
+		<VALUE measured="org.apache.commons.text.matcher" value="14.0"/>
+		<VALUE measured="org.apache.commons.text.numbers" value="12.0"/>
+		<VALUE measured="org.apache.commons.text.similarity" value="52.0"/>
+		<VALUE measured="org.apache.commons.text.translate" value="31.0"/>
+	</METRIC>
+	<METRIC category="Module" name="Number of classes" abbreviation="C">
+		<VALUE measured="commons-text" value="285.0"/>
+	</METRIC>
+	<METRIC category="Project" name="Number of classes" abbreviation="C">
+		<VALUE measured="project" value="285.0"/>
+	</METRIC>
+</METRICS>
